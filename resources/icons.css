@@ -1,0 +1,70 @@
+
+/*----------------------------------------------------
+    Various icon classes
+*/
+
+.departments-shortcut {background-image: url(icons/departments48.png);}
+.kpi-shortcut {background-image: url(icons/kpi48.png);}
+.holidays-shortcut {background-image: url(icons/holidays48.png);}
+.visitors-shortcut {background-image: url(icons/visitors48.png);}
+.roles-shortcut {background-image: url(icons/access48.png);}
+.users-shortcut {background-image: url(icons/users48.png);}
+.briefcase-shortcut {background-image: url(icons/briefcase48.png);}
+.pkeys-shortcut {background-image: url(icons/key48.png);}
+.calendar-shortcut {background-image: url(icons/calendar48.png);}
+.refs-shortcut {background-image: url(icons/book48.png);}
+.task-shortcut {background-image: url(icons/task48.png);}
+.arhive-shortcut {background-image: url(icons/archive48.png);}
+.userips-shortcut {background-image: url(icons/ip48.png);}
+.fas-shortcut { background-image: url('icons/fas48.png') }
+.reputation-shortcut { background-image: url('icons/reputation48.png') }
+.field-names-shortcut  { background-image: url('icons/fieldname_48.png') }
+.contracts-shortcut { background-image: url('icons/contracts_48.png') }
+
+
+.departments {background-image: url(icons/department16.png);}
+.kpi {background-image: url(icons/kpi16.png);}
+.holidays {background-image: url(icons/holiday16.png);}
+.visitors {background-image: url(icons/visitor16.png);}
+.roles {background-image: url(icons/access16.png);}
+.users {background-image: url(icons/users16.png);}
+.briefcase {background-image: url(icons/briefcase16.png);}
+.pkeys {background-image: url(icons/key16.png);}
+.calendar {background-image: url(icons/calendar16.png);}
+.refs {background-image: url(icons/book16.png);}
+.task {background-image: url(icons/task16.png);}
+.arhive {background-image: url(icons/archive16.png);}
+.userips {background-image: url(icons/ip16.png);}
+.fas{ background-image: url('icons/fas16.png') }
+.reputation{ background-image: url('icons/reputation16.png') }
+.field-names { background-image: url('icons/fieldname.png') }
+.contracts{ background-image: url('icons/contracts_16.png') }
+
+.up16 {background-image:url( icons/arrow-up.png);}
+.down16 {background-image:url( icons/arrow-down.png);}
+.user {background-image:url( icons/user16.png);}
+.edit {background-image: url(icons/edit-fon16.png);}
+.edit20 {background-image: url(icons/edit-fon20.png);}
+.edit24 {background-image: url(icons/edit-fon24.png);}
+.remove {background-image: url(icons/trash16.png);}
+.remove24 {background-image: url(icons/trash24.png);}
+.add {background-image: url(icons/plus16.png);}
+.add24 {background-image: url(icons/plus24.png);}
+
+.calendar24{background-image: url(icons/calendar24.png);}
+.edit32 {background-image: url(icons/edit32-2.png);}
+.export2 {background-image: url(icons/export32-2.png);}
+.print {background-image: url(icons/print32-2.png);}
+.calculate {background-image: url(icons/calculate32.png);}
+
+.ux-desktop-shortcut {
+    border: 1px dashed transparent;
+}
+
+.ux-desktop-shortcut:hover {
+    border: 1px dashed white;
+}
+
+.x-view-over .ux-desktop-shortcut-text {
+    text-decoration: none;
+}

@@ -1,0 +1,106 @@
+
+.g-red span.x-btn-icon-el,
+.g-red span.x-grid-checkcolumn,
+.g-red span.x-form-checkbox-default,
+.g-red span.x-form-radio-default,
+.g-red span.x-grid-checkcolumn:after,
+.g-red span.x-grid-checkcolumn-checked,
+.g-red span.x-grid-checkcolumn-checked:after,
+.g-red div.x-menu-item-icon,
+.g-red div.x-tool-tool-el,
+.g-red div.x-title-icon,
+.g-red div.x-action-col-icon
+{
+    color: #dd0000 !important;
+}
+
+.g-green span.x-btn-icon-el,
+.g-green span.x-grid-checkcolumn,
+.g-green span.x-form-checkbox-default,
+.g-green span.x-form-radio-default,
+.g-green span.x-grid-checkcolumn:after,
+.g-green span.x-grid-checkcolumn-checked,
+.g-green span.x-grid-checkcolumn-checked:after,
+.g-green div.x-menu-item-icon,
+.g-green div.x-tool-tool-el,
+.g-green div.x-title-icon,
+.g-green div.x-action-col-icon
+{
+    color: #83ca05;
+}
+
+.g-blue span.x-btn-icon-el,
+.g-blue span.x-grid-checkcolumn,
+.g-blue span.x-form-radio-default,
+.g-blue span.x-form-checkbox-default,
+.g-blue span.x-grid-checkcolumn:after,
+.g-blue span.x-grid-checkcolumn-checked,
+.g-blue span.x-grid-checkcolumn-checked:after,
+.g-blue div.x-menu-item-icon,
+.g-blue div.x-tool-tool-el,
+.g-blue div.x-title-icon,
+.g-blue div.x-action-col-icon
+{
+    color: #0600dd;
+}
+
+.g-black span.x-btn-icon-el,
+.g-black span.x-grid-checkcolumn,
+.g-black span.x-form-radio-default,
+.g-black span.x-form-checkbox-default,
+.g-black span.x-grid-checkcolumn:after,
+.g-black span.x-grid-checkcolumn-checked,
+.g-black span.x-grid-checkcolumn-checked:after,
+.g-black div.x-menu-item-icon,
+.g-black div.x-tool-tool-el,
+.g-black div.x-title-icon,
+.g-black div.x-action-col-icon
+{
+    color: #3f3f3f;
+}
+
+.g-gray span.x-btn-icon-el,
+.g-gray span.x-grid-checkcolumn,
+.g-gray span.x-form-radio-default,
+.g-gray span.x-form-checkbox-default,
+.g-gray span.x-grid-checkcolumn:after,
+.g-gray span.x-grid-checkcolumn-checked,
+.g-gray span.x-grid-checkcolumn-checked:after,
+.g-gray div.x-menu-item-icon,
+.g-gray div.x-tool-tool-el,
+.g-gray div.x-title-icon,
+.g-gray div.x-action-col-icon
+{
+    color: #b3b3b3;
+}
+
+.g-orange span.x-btn-icon-el,
+.g-orange span.x-grid-checkcolumn,
+.g-orange span.x-form-radio-default,
+.g-orange span.x-form-checkbox-default,
+.g-orange span.x-grid-checkcolumn:after,
+.g-orange span.x-grid-checkcolumn-checked,
+.g-orange span.x-grid-checkcolumn-checked:after,
+.g-orange div.x-menu-item-icon,
+.g-orange div.x-tool-tool-el,
+.g-orange div.x-title-icon,
+.g-orange div.x-action-col-icon
+{
+    color: #ff9100;
+}
+
+
+.g-yellow span.x-btn-icon-el,
+.g-yellow span.x-grid-checkcolumn,
+.g-yellow span.x-form-radio-default,
+.g-yellow span.x-form-checkbox-default,
+.g-yellow span.x-grid-checkcolumn:after,
+.g-yellow span.x-grid-checkcolumn-checked,
+.g-yellow span.x-grid-checkcolumn-checked:after,
+.g-yellow div.x-menu-item-icon,
+.g-yellow div.x-tool-tool-el,
+.g-yellow div.x-title-icon,
+.g-yellow div.x-action-col-icon
+{
+    color: #fff000;
+}
