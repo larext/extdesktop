@@ -8,16 +8,17 @@ Ext.define('Desktop.store.Users', {
         'inphone','fastdial','online','role_id_name','role_id','token_id','status','ip',
         {
             name:'post_name', mapping: function(data){
-                return Ext.util.Format.refs('worker_posts', data.post_id);
+                return '';
+                //return Ext.util.Format.refs('worker_posts', data.post_id);
             }
         }
     ],
     pageSize: 20,
     proxy: {
         type: 'ajax',
-        url: '/app/api/users',
+        url: '/larext/products',
         actionMethods: {
-            read: 'POST'
+            read: 'GET'
         },
         reader: {
             type: 'json',

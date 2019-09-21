@@ -124,7 +124,7 @@ Ext.define('Desktop.App', {
             fn: function(buttonId) {
                 if (buttonId === "yes") {
                     Ext.Ajax.request({
-                        url: '/larext/logout',
+                        url: '/logout',
                         method: 'POST',
                         scope: this,
                         callback: function(response, opts) {

@@ -22,7 +22,7 @@ Ext.define('Desktop.store.LogVisit', {
     pageSize: 20,
     proxy: {
         type: 'ajax',
-        url: '/app/api/logvisits',
+        url: '/larext/products',
         actionMethods: {
             read: 'POST'
         },

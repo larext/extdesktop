@@ -6,9 +6,13 @@ Ext.application({
         'Desktop.view.login.Login',
     ],
     launch: function() {
+        Ext.Ajax.setDefaultHeaders({
+            'Content-Type': 'application/json'
+        });
+
         Ext.Ajax.request({
             scope: this,            
-            url: '/larext/auth',
+            url: '/auth',
             method: 'GET',
             success: function(response, opts) {
                 var obj = Ext.decode(response.responseText);

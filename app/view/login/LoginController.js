@@ -7,7 +7,7 @@ Ext.define('Desktop.view.login.LoginController', {
         form.getForm().submit({
             clientValidation: true,
             scope: this,
-            url: '/larext/login',
+            url: '/login',
             success: function(form, action) {
                 if(action.result && action.result.csrf){
                     Ext.Ajax.setDefaultHeaders({
